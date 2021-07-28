@@ -7,7 +7,7 @@
 - Object-based storage
 - Not for rapidly changing data
 - Virtual-host style and path-sytle URLs (soon to be retired) supported
-  - Virutal-host style example: https://bucket-name.s3.Region.amazonaws.com/key
+  - Virtual-host style example: https://bucket-name.s3.Region.amazonaws.com/key
   - Path-style example: https://s3.Region.amazonaws.com/bucket-name/key
 - *Multi-part upload*
   - For larger files
@@ -58,7 +58,7 @@
 
 - **Options**
   - **S3 Select**
-    - Oranize and mange your date in ways to suppport specific use cases
+    - Organize and mange your date in ways to suppport specific use cases
     - Allows retrieval of subset of data from an object by using simple SQL expressions (ie. single gzip csv file)
   - **Transfer Acceleration**
     - Enables fast, easy, and secure transfer of files over long distances between your client and your Amazon S3 bucket
