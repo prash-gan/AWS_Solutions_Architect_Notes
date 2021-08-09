@@ -6,7 +6,7 @@
 
 - Object-based storage
 - Not for rapidly changing data
-- Virtual-host style and path-sytle URLs (soon to be retired) supported
+- Virtual-host style and path-style URLs (soon to be retired) supported
   - Virtual-host style example: https://bucket-name.s3.Region.amazonaws.com/key
   - Path-style example: https://s3.Region.amazonaws.com/bucket-name/key
 - *Multi-part upload*
